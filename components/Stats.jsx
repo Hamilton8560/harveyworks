@@ -4,21 +4,21 @@ import CountUp from "react-countup";
 
 const stats = [
   {
-    num: 4,
+    num: 3,
     text: "Years of experience",
   },
   {
-    num: 75,
-    text: "Clients trained",
+    num: 2,
+    text: "Physique Comps",
   },
   {
-    num: 150,
+    num: 225,
     text: "Fitness programs delivered",
   },
-  {
-    num: 850,
-    text: "Sessions conducted",
-  },
+  // {
+  //   num: 850,
+  //   text: "Sessions conducted",
+  // },
 ];
 
 const Stats = () => {
