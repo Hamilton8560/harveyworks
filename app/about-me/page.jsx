@@ -18,7 +18,7 @@ const AboutMe = () => {
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
 
-  Yo, I’m <strong>Harvey Torres</strong>—20 years old, Polk County, Florida raised, and here to help you get your fitness life together. I’ve competed in physique competitions twice, so I know what it takes to go from “maybe tomorrow” to “let’s go, now.”
+  I’m <strong>Harvey Torres</strong>—20 years old, Polk County, Florida raised, and here to help you get your fitness life together. I’ve competed in physique competitions twice, so I know what it takes to go from “maybe tomorrow” to “let’s go, now.”
 </p>
 <p className="max-w-[500px] mb-9 text-white/80">
   I’m all about creating workouts that don’t feel like copy-paste. Whether you’re booking an <strong>online consult</strong>, hitting an <strong>in-person session</strong>, or diving into my personal workout program template, we’re making it real and making it yours.
