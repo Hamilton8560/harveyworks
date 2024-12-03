@@ -14,11 +14,19 @@ const AboutMe = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Fitness Coach</span>
             <h1 className="h1 mb-6">
-              Welcome! I&apos;m <br /> <span className="text-accent">Zumrod Tebra</span>
+              Welcome! I&apos;m <br /> <span className="text-accent">Harvey Torres</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-            I&apos;m here to help you reach your fitness goals in a way that&apos;s just right for you! Let&apos;s revive your fitness journey with dynamic, personalized training sessions and tailored fitness programs. We&apos;ll create a plan that&apos;s as unique as you are. Whether you choose a one-on-one session, a tailored program, or my specified workout routine available in my app, Zoomfit, I am here to inspire and motivate you every step of the way. Turn your vision into reality. Your best self is waiting!
-          </p>
+
+  Yo, I’m <strong>Harvey Torres</strong>—20 years old, Polk County, Florida raised, and here to help you get your fitness life together. I’ve competed in physique competitions twice, so I know what it takes to go from “maybe tomorrow” to “let’s go, now.”
+</p>
+<p className="max-w-[500px] mb-9 text-white/80">
+  I’m all about creating workouts that don’t feel like copy-paste. Whether you’re booking an <strong>online consult</strong>, hitting an <strong>in-person session</strong>, or diving into my personal workout program template, we’re making it real and making it yours.
+</p>
+<p className="max-w-[500px] mb-9 text-white/80">
+  No gimmicks, no fluff—just a plan that works for you and keeps you coming back. Ready to quit scrolling and start lifting? Let’s talk. Your glow-up starts here.
+</p>
+
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
