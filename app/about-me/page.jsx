@@ -29,8 +29,9 @@ const AboutMe = () => {
 
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
+            <div className="relative group">
               <a
-              href="http://program.zumrod.app/"
+              
                 // href="https://calendly.com/davidhamilton473/fitness-consultation" // Replace with your Calendly link
                 target="_blank"
                 rel="noopener noreferrer"
@@ -39,6 +40,10 @@ const AboutMe = () => {
                 <span>Start Program</span>
                 <FiDownload className="text-xl" />
               </a>
+              <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max bg-gray-800 text-white text-sm rounded-md py-1 px-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              Coming soon!
+            </span>
+          </div>
               <div className="mb-8 xl:mb-0">
                 <Social
                   containerStyles="flex gap-6"
